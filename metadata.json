@@ -1,0 +1,6 @@
+{
+  "name": "Retro Space Dodger",
+  "description": "An interactive, mobile-first arcade dodging game with retro synth sounds, vibration feedback, a skin store, and high-score tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
